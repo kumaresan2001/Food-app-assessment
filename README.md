@@ -1,2 +1,2 @@
 # Food-app-assessment
-APP Link-https://food-assessment.netlify.app/
+APP Link-https://food-assessment.netlify.app
